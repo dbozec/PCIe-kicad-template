@@ -1,7 +1,7 @@
 # PCIe templates
 
-Here are my KiCad templates for PCIe add-in cards.
-They are standard sizes based on PCI EXPRESS CARD ELECTROMECHANICAL SPECIFICATION, REV. 2.0 document
+Here are my KiCad templates for PCI Express add-in cards.
+They are standard sizes based on "PCI EXPRESS CARD ELECTROMECHANICAL SPECIFICATION, REV. 2.0" document
 
 ![icon](PCIe_x16_lowProfile/meta/icon.png)
 
